@@ -7,3 +7,6 @@ This is a emoji app which will tell you the name of emojis when your enter the e
 
 
 I have used React by sandbox ,html ,css and javascript and emojipedia.
+
+App link
+https://isru1.csb.app/
